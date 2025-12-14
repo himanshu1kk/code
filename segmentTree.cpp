@@ -71,10 +71,10 @@ void update(int index , int updateindex , int no ,  int low , int high  , int ar
 
 int main(){
     SGTree sg1(6);
-    //pass the params inside the build mlethos and this will build for sg1 sg1.build()
+    //pass the params inside the build methods and this will build for sg1 sg1.build()
     SGTree sg2(6);
 
-//pass the params inside the build mlethos and this will build for sg2 sg2.build()
+//pass the params inside the build method and this will build for sg2 sg2.build()
 
 //now whenever you wanted to make a call just make a call to update aur query //
 
